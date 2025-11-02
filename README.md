@@ -259,5 +259,5 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support and questions, please contact jayanthreddy1704@gmail.com or create an issue in the repository.
+For support and questions, please contact archana9014060147@gmail.com or create an issue in the repository.
 
